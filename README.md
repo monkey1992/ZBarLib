@@ -1,4 +1,4 @@
 # ZBarLib
-This project is used to compile the source code of zbar into dynamic libraries of each CPU architecture.
+This project is used to compile the source codes of zbar into dynamic libraries of each CPU architecture.
 
-The compilation tool is CMake and Android Studio.
+The compilation tools are CMake and Android Studio.
